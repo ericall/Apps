@@ -1,7 +1,14 @@
 # HC
-
+## Dev ArcGIS Server
+* [ArcGIS Server](https://hcgis-dev.hennepin.us/arcgis/rest/services)
 ## Dev internal
-
+* [Adopt-A-Highway Admin](https://hcgis-dev.hennepin.us/AAHAdmin/default.aspx)
+* [Assessor](https://hcgis-dev.hennepin.us/assessor/map/Index.html)
+* [HCMap](http://hcgis-dev.hennepin.us/hcmap/viewer/index.html)
+* [Interactive Geocoder](https://hcgis-dev.hennepin.us/agsinteractivegeocoder/default.aspx)
+* [Level 3](https://hcgis-dev.hennepin.us/level3/index.html)
+* [Nuisance Properties](https://hcgis-dev.hennepin.us/NuisanceProperties/default.aspx)
+* [Routing](http://hcgis-dev.hennepin.us/routing/map/default.aspx)
 ### Web Apps
 
 ### Apis
