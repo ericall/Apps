@@ -2,18 +2,26 @@
 ## Dev ArcGIS Server
 * [ArcGIS Server](https://hcgis-dev.hennepin.us/arcgis/rest/services)
 ## Dev internal
+### Web Apps
 * [Adopt-A-Highway Admin](https://hcgis-dev.hennepin.us/AAHAdmin/default.aspx)
 * [Assessor](https://hcgis-dev.hennepin.us/assessor/map/Index.html)
 * [HCMap](http://hcgis-dev.hennepin.us/hcmap/viewer/index.html)
 * [Interactive Geocoder](https://hcgis-dev.hennepin.us/agsinteractivegeocoder/default.aspx)
 * [Level 3](https://hcgis-dev.hennepin.us/level3/index.html)
-* [Nuisance Properties](https://hcgis-dev.hennepin.us/NuisanceProperties/default.aspx)
 * [Routing](http://hcgis-dev.hennepin.us/routing/map/default.aspx)
-### Web Apps
-
 ### Apis
-
 ## Dev external
+### Web Apps
+* [GIS Home](https://hcgis-dev.hennepin.us/Home/)
+* [Metro Shape 2014](https://hcgis-dev.hennepin.us/MetroSHAPE2014-Survey/index.html)
+* [Natural Resources](https://hcgis-dev.hennepin.us/naturalresources/map/default.aspx)
+* [Parks](https://hcgis-dev.hennepin.us/parks/map/default.aspx)
+* [Property Map](https://hcgis-dev.hennepin.us/property/map/default.aspx)
+### APIs
+## Dev Secure
+* [Nuisance Properties](https://hcgis-dev.hennepin.us/NuisanceProperties/default.aspx)
+* [UI2](https://hcgis-dev.hennepin.us/UI2/default.aspx)
+
 
 ### Web Apps
 
