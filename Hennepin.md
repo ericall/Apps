@@ -1,76 +1,65 @@
-# HC
-## Dev ArcGIS Server
+## HC
+### Dev ArcGIS Server
 * [ArcGIS Server](https://hcgis-dev.hennepin.us/arcgis/rest/services)
-## Dev internal
-### Web Apps
+### Dev internal
+#### Web Apps
 * [Adopt-A-Highway Admin](https://hcgis-dev.hennepin.us/AAHAdmin/default.aspx)
 * [Assessor](https://hcgis-dev.hennepin.us/assessor/map/Index.html)
 * [HCMap](http://hcgis-dev.hennepin.us/hcmap/viewer/index.html)
 * [Interactive Geocoder](https://hcgis-dev.hennepin.us/agsinteractivegeocoder/default.aspx)
 * [Level 3](https://hcgis-dev.hennepin.us/level3/index.html)
 * [Routing](http://hcgis-dev.hennepin.us/routing/map/default.aspx)
-### Apis
-## Dev external
-### Web Apps
+#### Apis
+### Dev external
+#### Web Apps
 * [GIS Home](https://hcgis-dev.hennepin.us/Home/)
 * [Metro Shape 2014](https://hcgis-dev.hennepin.us/MetroSHAPE2014-Survey/index.html)
 * [Natural Resources](https://hcgis-dev.hennepin.us/naturalresources/map/default.aspx)
 * [Parks](https://hcgis-dev.hennepin.us/parks/map/default.aspx)
 * [Property Map](https://hcgis-dev.hennepin.us/property/map/default.aspx)
-### APIs
-## Dev Secure
+#### APIs
+### Dev Secure
 * [Nuisance Properties](https://hcgis-dev.hennepin.us/NuisanceProperties/default.aspx)
 * [UI2](https://hcgis-dev.hennepin.us/UI2/default.aspx)
 
 
-### Web Apps
+#### Web Apps
 
-### Apis
+#### Apis
 
-## PE internal
+### PE internal
 
-### Web Apps
+#### Web Apps
 
-### Apis
+#### Apis
 
-## PE external
+### PE external
 
-### Web Apps
+#### Web Apps
 
-### Apis
+#### Apis
 
-## PE Ecom
+### PE Ecom
 
-### Web Apps
+#### Web Apps
 
-### Apis
+#### Apis
 
-## Prod internal
+### Prod internal
 
-### Web Apps
+#### Web Apps
 
-### Apis
+#### Apis
 
-## Prod external
+### Prod external
 
-### Web Apps
+#### Web Apps
 
-### Apis
+#### Apis
 
-## Prod Ecom
+### Prod Ecom
 
-### Web Apps
+#### Web Apps
 
-### Apis
-
-
-
-## Dev External
-* [Vue Official](https://vuejs.org/): Vues official page.
-* [Awesome Vue](https://github.com/vuejs/awesome-vue): Huge list of Vue resources
-
-## Tutorials
-
-## Performance
-* [Lighthouse performance](https://checklyhq.com/blog/2018/08/how-we-got-a-100-lighthouse-performance-score-for-our-vue.js-app/):How we got a 100% Lighthouse performance score for our Vue.js app.
+#### Apis
 
