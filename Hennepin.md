@@ -10,18 +10,40 @@
             - [Interactive Geocoder](https://hcgis-dev.hennepin.us/agsinteractivegeocoder/default.aspx)
             - [Level 3](https://hcgis-dev.hennepin.us/level3/index.html)
             - [Routing](http://hcgis-dev.hennepin.us/routing/map/default.aspx)
-#### Apis
-### Dev external
-#### Web Apps
-* [GIS Home](https://hcgis-dev.hennepin.us/Home/)
-* [Metro Shape 2014](https://hcgis-dev.hennepin.us/MetroSHAPE2014-Survey/index.html)
-* [Natural Resources](https://hcgis-dev.hennepin.us/naturalresources/map/default.aspx)
-* [Parks](https://hcgis-dev.hennepin.us/parks/map/default.aspx)
-* [Property Map](https://hcgis-dev.hennepin.us/property/map/default.aspx)
-#### APIs
-### Dev Secure
-* [Nuisance Properties](https://hcgis-dev.hennepin.us/NuisanceProperties/default.aspx)
-* [UI2](https://hcgis-dev.hennepin.us/UI2/default.aspx)
+        -   APIs
+    -   External
+        -   Web Apps
+            - [GIS Home](https://hcgis-dev.hennepin.us/Home/)
+            - [Metro Shape 2014](https://hcgis-dev.hennepin.us/MetroSHAPE2014-Survey/index.html)
+            - [Natural Resources](https://hcgis-dev.hennepin.us/naturalresources/map/default.aspx)
+            - [Parks](https://hcgis-dev.hennepin.us/parks/map/default.aspx)
+            - [Property Map](https://hcgis-dev.hennepin.us/property/map/default.aspx)
+        -   APIs
+    -   Secure
+        -   Web Apps
+            - [Nuisance Properties](https://hcgis-dev.hennepin.us/NuisanceProperties/default.aspx)
+            - [UI2](https://hcgis-dev.hennepin.us/UI2/default.aspx)
+-   Prod
+    -   ArcGIS Server
+        -   [ArcGIS Server External](http://gis.hennepin.us/arcgis/rest/services)
+        -   [ArcGIS Server Internal](http://hcgis.hennepin.us/arcgis/rest/services)
+    -   Internal
+        - Web Apps
+            - [Adopt-A-Highway Admin](https://hcgis.hennepin.us/AAHAdmin/default.aspx)
+            - [Assessor](https://hcgis.hennepin.us/assessor/map/Index.html)
+            - [HCMap](http://hcgis.hennepin.us/hcmap/viewer/index.html)
+            - [Interactive Geocoder](https://hcgis.hennepin.us/agsinteractivegeocoder/default.aspx)
+            - [Level 3](https://hcgis.hennepin.us/level3/index.html)
+            - [Routing](http://hcgis.hennepin.us/routing/map/default.aspx)
+            - [Staff Space Locator](http://hcgis.hennepin.us/StaffSpaceLocator/map/index.html)
+    -   External
+        -   Web Apps
+            - [GIS Home](https://gis.hennepin.us/Home/)
+            - [Mesonet](https://gis.hennepin.us/MesonetMaps/Viewer/)
+            - [Metro Shape 2014](https://gis.hennepin.us/MetroSHAPE2014-Survey/index.html)
+            - [Natural Resources](https://gis.hennepin.us/naturalresources/map/default.aspx)
+            - [Parks](https://gis.hennepin.us/parks/map/default.aspx)
+            - [Property Map](https://gis.hennepin.us/property/map/default.aspx)
 
 
 #### Web Apps
